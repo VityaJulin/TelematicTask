@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TelematicTask</string>
+    <string name="title_activity_login">My Compose App</string>
+</resources>
